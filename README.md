@@ -7,4 +7,4 @@ A place for sharing ideas.
 
 ## License
 
-Ideas are not copyrightable. If you post your idea here, expect it to be adopted, shared, remixed, improved, discussed, and implemented. If you don't want that, then keep your idea to yourself!
+[Ideas are not copyrightable.](http://en.wikipedia.org/wiki/Idea%E2%80%93expression_divide) If you post your idea here, expect it to be adopted, shared, remixed, improved, discussed, and implemented. If you don't want that, then keep your idea to yourself!
