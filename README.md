@@ -2,7 +2,7 @@
 
 A place for sharing ideas.
 
-[Share your idea and discuss other ideas on the Issue Tracker](https://github.com/ideashare/ideas/issues)
+[Share your idea and discuss other ideas on the Issue Tracker.](https://github.com/ideashare/ideas/issues)
 
 
 ## License
