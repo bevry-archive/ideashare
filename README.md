@@ -2,7 +2,7 @@
 
 A place for sharing ideas.
 
-Let's use it as a collaborative box for growing all of our everyday ideas, together.
+Let's use it as a collaborative box for growing all of our everyday ideas.
 
 [Share your idea and discuss other ideas on the Issue Tracker.](https://github.com/ideashare/ideas/issues)
 
